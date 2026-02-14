@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.one {
+    background-color: rgb(240, 136, 136);
+}
+#two {
+    color: blue;
+    font-size: 27px;
+}
+.three {
+    font-size: 19px;
+    background-color: rgb(240, 136, 136);
+}
+#four {
+    background-color: rgb(13, 195, 13);
+    font-size: 17px;
+    font-weight: bold;
+}
+.five {
+    background-color: rgb(240, 136, 136);
+    
+}
